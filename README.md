@@ -12,7 +12,7 @@
 
 ## About Me
 
-My research and teaching experience spans Software Engineering, artificial intelligence, machine learning, simulation, wireless sensor networks, RFID, IoT, and intelligent systems.My research combines mathematical modeling, computational experiments, and data driven methods to address problems in sensing, communications, and autonomous systems.
+My research and teaching experience spans Software Engineering, artificial intelligence, machine learning, simulation, wireless sensor networks, RFID, IoT, and intelligent systems. Research work combines mathematical modeling, computational experiments, and data driven methods to address problems in sensing, communications, and autonomous systems.
 
 
 ## Technologies & Tools
