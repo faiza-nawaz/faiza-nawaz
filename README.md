@@ -1,7 +1,7 @@
 <div align="center">
 
 
-**Wireless & Intelligent Systems . Artificial Intelligence · Machine Learning · Physics-Aware Simulation**
+**Wireless & Mobile Networks . Artificial Intelligence · Machine Learning · Simulation**
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fnawaz@uottawa.ca)
 [![Research](https://img.shields.io/badge/Research-Hypersonic%20Systems-172554?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faiza-nawaz)
