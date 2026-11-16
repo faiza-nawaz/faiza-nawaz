@@ -1,10 +1,7 @@
 <div align="center">
 
-# Hi there, I'm Dr. Faiza Nawaz! 👋
 
-### Research Associate · University of Ottawa 🇨🇦
-
-**Artificial Intelligence · Machine Learning · Physics-Aware Simulation · Wireless & Intelligent Systems**
+**Wireless & Intelligent Systems . Artificial Intelligence · Machine Learning · Physics-Aware Simulation**
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fnawaz@uottawa.ca)
 [![Research](https://img.shields.io/badge/Research-Hypersonic%20Systems-172554?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faiza-nawaz)
