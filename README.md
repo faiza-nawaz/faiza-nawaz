@@ -12,7 +12,7 @@
 
 ## About Me
 
-I am a Research Associate at the School of Electrical Engineering and Computer Science, University of Ottawa, working on physics-aware simulation, modeling, tracking, and navigation of hypersonic vehicles. My broader research experience spans artificial intelligence, machine learning, simulation, wireless sensor networks, RFID, IoT, and intelligent systems.My research combines mathematical modeling, computational experiments, and data-driven methods to address problems in sensing, communications, and autonomous systems.
+My research and teaching experience spans Software Engineering, artificial intelligence, machine learning, simulation, wireless sensor networks, RFID, IoT, and intelligent systems.My research combines mathematical modeling, computational experiments, and data driven methods to address problems in sensing, communications, and autonomous systems.
 
 
 ## Technologies & Tools
